@@ -14,4 +14,4 @@ You can't find the application code at this time because this app in in beta
 # Application Info
 This application created by Android_Creator with App Inventor. For more information download the application
 
-# Support Email: androi.5creator.5@gmail.com
+Support Email: androi.5creator.5@gmail.com
